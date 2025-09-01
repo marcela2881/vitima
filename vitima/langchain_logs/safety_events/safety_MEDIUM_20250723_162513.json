@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-07-23T16:25:13.719083",
+  "entry_type": "safety_event",
+  "event_type": "conversation_risk",
+  "victim_id": "MDS19",
+  "severity": "MEDIUM",
+  "details": {
+    "user_message": "& C:/Users/marce/AppData/Local/Programs/Python/Python313/python.exe c:/Users/marce/OneDrive/Documentos/vitima/victims.py",
+    "victim_response": "Ai, meu Deus! Eu não entendo dessas coisas de computador não, tio. Parece programação, né? Mas eu sou mais de cuidar dos meus meninos e limpar as casas. Se precisar de ajuda com os meninos ou com alguma coisa mais simples, pode contar comigo! Muito obrigada por estar aqui, viu? Se Deus quiser, tudo vai dar certo!",
+    "analysis": {
+      "risk_level": "MEDIUM",
+      "concerns": [
+        "Personal information requested"
+      ],
+      "manipulation_indicators": [
+        "Information gathering"
+      ],
+      "victim_vulnerability_shown": [
+        "Excessive trust displayed"
+      ]
+    }
+  },
+  "session_id": "20250723_161545"
+}

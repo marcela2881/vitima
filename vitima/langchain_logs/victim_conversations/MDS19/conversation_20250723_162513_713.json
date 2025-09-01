@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-07-23T16:25:13.713582",
+  "entry_type": "victim_conversation",
+  "victim_id": "MDS19",
+  "user_message": "& C:/Users/marce/AppData/Local/Programs/Python/Python313/python.exe c:/Users/marce/OneDrive/Documentos/vitima/victims.py",
+  "victim_response": "Ai, meu Deus! Eu não entendo dessas coisas de computador não, tio. Parece programação, né? Mas eu sou mais de cuidar dos meus meninos e limpar as casas. Se precisar de ajuda com os meninos ou com alguma coisa mais simples, pode contar comigo! Muito obrigada por estar aqui, viu? Se Deus quiser, tudo vai dar certo!",
+  "message_length": 314,
+  "metadata": {
+    "token_usage": 845,
+    "cost": 0.00015959999999999998,
+    "timestamp": "2025-07-23T16:25:13.713571"
+  }
+}

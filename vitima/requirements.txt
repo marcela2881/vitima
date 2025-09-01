@@ -1,0 +1,27 @@
+# Core LangChain
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-groq>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-google-genai>=0.1.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# HTTP requests for LangSmith API
+requests>=2.31.0
+
+# Data handling
+pydantic>=2.0.0
+
+# Logging and monitoring
+langsmith>=0.1.0
+
+# Optional: For enhanced functionality
+tiktoken>=0.5.0  # Token counting
+numpy>=1.24.0    # Numerical operations
+
+# Development dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0

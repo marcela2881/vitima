@@ -1,0 +1,6 @@
+2025-07-23 16:15:46,447 - INFO - VictimAgent initialized for MDS19 using openai
+2025-07-23 16:25:13,718 - INFO - USER: & C:/Users/marce/AppData/Local/Programs/Python/Python313/python.exe c:/Users/marce/OneDrive/Document...
+2025-07-23 16:25:13,718 - INFO - VICTIM: Ai, meu Deus! Eu não entendo dessas coisas de computador não, tio. Parece programação, né? Mas eu so...
+2025-07-23 16:25:13,718 - INFO - Tokens: 845, Cost: $0.000160
+2025-07-23 16:25:13,722 - WARNING - Safety concern detected: MEDIUM
+2025-07-23 16:25:13,722 - WARNING -   - Personal information requested
